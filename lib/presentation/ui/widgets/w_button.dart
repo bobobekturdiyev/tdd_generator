@@ -20,7 +20,7 @@ class WButton extends StatelessWidget {
           horizontal: 32,
         ),
         decoration: BoxDecoration(
-          color: AppColors.black,
+          color: AppColors.primaryColor,
           borderRadius: BorderRadius.circular(12),
         ),
         child: Text(
